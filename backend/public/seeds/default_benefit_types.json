@@ -1,0 +1,13 @@
+{
+    "name" : "Benefit Types",
+    "items" : [
+        { "name" : "Annual Physical Examination (APE)" },
+        { "name" : "Outpatient Consultation" },
+        { "name" : "Outpatient Laboratory" },
+        { "name" : "Minor Operation" },
+        { "name" : "Emergency Cases" },
+        { "name" : "Insurance Benefit Rider" },
+        { "name" : "Confinement" },
+        { "name" : "Dental" }
+    ]
+}

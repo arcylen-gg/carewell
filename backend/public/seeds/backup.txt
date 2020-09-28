@@ -1,0 +1,10 @@
+            { "name" : "Availment Summary",     "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+            { "name" : "Company Availment",     "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+            { "name" : "Availment Monitoring",  "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+            { "name" : "Payment Report",        "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+            { "name" : "Ending Number",         "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+            { "name" : "Breakdown",             "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+            { "name" : "Active Per Month",      "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+            { "name" : "Ajudication",           "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+            { "name" : "Policy Data",           "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+            { "name" : "Claims Data",           "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] }

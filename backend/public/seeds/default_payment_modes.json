@@ -1,0 +1,10 @@
+{
+    "name" : "Payment Modes",
+    "items" : [
+        { "name" : "Semi Monthly" },
+        { "name" : "Monthly" },
+        { "name" : "Quarterly" },
+        { "name" : "Semestral" },
+        { "name" : "Annually" }
+    ]
+}

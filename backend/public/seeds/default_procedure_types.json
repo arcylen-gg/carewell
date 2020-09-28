@@ -1,0 +1,11 @@
+{
+    "name" : "Procedure Types",
+    "items" : [
+        { "name" : "APE" },
+        { "name" : "DENTAL" },
+        { "name" : "EXECUTIVE CHECKUP" },
+        { "name" : "CONF/M.Opn" },
+        { "name" : "DEATH" },
+        { "name" : "LABORATORY" }
+    ]
+}

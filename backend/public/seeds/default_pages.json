@@ -1,0 +1,53 @@
+{
+    "name" : "Pages",
+    "items" : [
+        { "name" : "Dashboard", "icon" : "home", "text_color" : "#ffffff", "color" : "#017acb", "children" : [] },
+
+        { "name" : "Availment Center", "icon" : "mdi-hospital", "text_color" : "#ffffff", "color" : "#5939b4", "children" : [] },
+
+        { "name" : "Billing & Collection Center", "icon" : "mdi-credit-card", "text_color" : "#ffffff", "color" : "#0194a8", "children" : [] },
+
+        { "name" : "Company Center", "icon" : "mdi-office-building", "text_color" : "#ffffff", "color" : "#d74e2a", "children" : [] },
+
+        { "name" : "Member Center", "icon" : "mdi-account-circle", "text_color" : "#ffffff", "color" : "#009b01", "children" : [] },
+
+        { "name" : "Payable Center", "icon" : "mdi-paypal", "text_color" : "#ffffff", "color" : "#00b8f1", "children" : [] },
+
+        { "name" : "Reports", "icon" : "mdi-chart-bar", "text_color" : "#ffffff", "color" : "#b91c47", "children" : [
+            { "name" : "Availment Summary",     "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+            { "name" : "Company Availment",     "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+            { "name" : "Availment Monitoring",  "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+            { "name" : "Payment Report",        "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+            { "name" : "Ending Number",         "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+            { "name" : "Breakdown",             "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+            { "name" : "Active Member Per Month",      "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+            { "name" : "Ajudication",           "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+            { "name" : "Policy Data",           "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+            { "name" : "Claims Data",           "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+            { "name" : "Comparative Availment", "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+            { "name" : "Availment Per Type Per Company", "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+            { "name" : "Availment Per Month Per Client", "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] }
+        ] },
+        { "name" : "Settings", "icon" : "settings", "text_color" : "#ffffff", "color" : "#626262", "children" : [
+            { "name" : "Coverage Plan", "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+            { "name" : "Doctor Center", "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+            { "name" : "Network Provider Center", "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+            { "name" : "Maintenance", "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [
+                { "name" : "Coverage Plan Description", "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+                { "name" : "Procedure Types", "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+                { "name" : "Pre-Existing", "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+                { "name" : "Diagnosis List", "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+                { "name" : "Payment Method", "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+                { "name" : "Specialization", "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+                { "name" : "Payment Term", "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+                { "name" : "Bank", "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] }
+            ] },
+            { "name" : "Utilities", "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [
+                { "name" : "Access Level", "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+                { "name" : "Admin Panel", "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+                { "name" : "Audit Trail", "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] },
+                { "name" : "Other Setting", "icon" : "", "text_color" : "#ffffff", "color" : "", "children" : [] }
+            ] }
+        ] }
+    ] 
+}
